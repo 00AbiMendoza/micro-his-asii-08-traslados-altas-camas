@@ -1,0 +1,8 @@
+.env
+/database/*.sqlite
+/database/*.db
+/vendor/
+/coverage/
+*.log
+.DS_Store
+Thumbs.db
