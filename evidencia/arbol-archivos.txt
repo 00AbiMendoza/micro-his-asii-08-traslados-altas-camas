@@ -12,6 +12,7 @@ docs/diagramas/arquitectura-micro-his.png
 docs/diagramas/arquitectura-micro-his.puml
 docs/diagramas/flujo-traslado-alta.png
 docs/diagramas/flujo-traslado-alta.puml
+docs/Microservicios_Monolito_Esau_Mendoza.pdf
 evidencia/.gitkeep
 evidencia/arbol-archivos.txt
 evidencia/ejecucion-traslado.txt
